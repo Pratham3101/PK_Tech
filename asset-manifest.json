@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/PK_Tech/static/css/main.bddb7239.css",
+    "main.js": "/PK_Tech/static/js/main.141c20a1.js",
+    "static/js/453.64512fd7.chunk.js": "/PK_Tech/static/js/453.64512fd7.chunk.js",
+    "index.html": "/PK_Tech/index.html",
+    "main.bddb7239.css.map": "/PK_Tech/static/css/main.bddb7239.css.map",
+    "main.141c20a1.js.map": "/PK_Tech/static/js/main.141c20a1.js.map",
+    "453.64512fd7.chunk.js.map": "/PK_Tech/static/js/453.64512fd7.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bddb7239.css",
+    "static/js/main.141c20a1.js"
+  ]
+}
