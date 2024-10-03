@@ -1,0 +1,10 @@
+{
+  "user":[
+    {
+    "fullName": "Prathamesh",
+    "email": "prathamesh@gmail.com",
+    "mobile": "1234566799",
+    "message": "hello json server"
+    }
+  ]
+}
