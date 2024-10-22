@@ -14,21 +14,21 @@ function Slider (){
               
                <div class="carousel-inner">
                   <div class="carousel-item active">
-                  <img src="assets/img2.jpg" class="d-block w-100" alt=""/>
+                  <img src="Assets/img2.jpg" class="d-block w-100" alt=""/>
                   <div class="carousel-caption d-none d-md-block">
                   <h5>First slide label</h5>
                   <p>We make software that makes life easy.</p>
                   </div>
                 </div>
                 <div class="carousel-item">
-                  <img src="assets/slider2.webp" class="d-block w-100" alt="..."/>
+                  <img src="Assets/slider2.webp" class="d-block w-100" alt="..."/>
                   <div class="carousel-caption d-none d-md-block">
                     <h5>Second slide label</h5>
                     <p>Some representative placeholder content for the second slide.</p>
                   </div> 
                </div>
                 <div class="carousel-item">
-                   <img src="assets/slider1.webp" class="d-block w-100" alt="..."/>
+                   <img src="Assets/slider1.webp" class="d-block w-100" alt="..."/>
                     <div class="carousel-caption d-none d-md-block">
                      <h5>Third slide label</h5>
                      <p>Some representative placeholder content for the third slide.</p>
